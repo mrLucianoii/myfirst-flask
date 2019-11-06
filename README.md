@@ -78,6 +78,6 @@ $ flask run
 
 ## Shell File
 ```
-$ run .
-
+$ ./startApp.sh
+```
 
